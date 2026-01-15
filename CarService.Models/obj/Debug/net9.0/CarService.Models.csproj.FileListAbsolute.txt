@@ -1,0 +1,13 @@
+D:\PU\4 kurs\Serafimkata\C-CarApp-main\C-CarApp-main\CarService.Host\CarService.Models\bin\Debug\net9.0\CarService.Models.deps.json
+D:\PU\4 kurs\Serafimkata\C-CarApp-main\C-CarApp-main\CarService.Host\CarService.Models\bin\Debug\net9.0\CarService.Models.dll
+D:\PU\4 kurs\Serafimkata\C-CarApp-main\C-CarApp-main\CarService.Host\CarService.Models\bin\Debug\net9.0\CarService.Models.pdb
+D:\PU\4 kurs\Serafimkata\C-CarApp-main\C-CarApp-main\CarService.Host\CarService.Models\obj\Debug\net9.0\CarService.Models.csproj.AssemblyReference.cache
+D:\PU\4 kurs\Serafimkata\C-CarApp-main\C-CarApp-main\CarService.Host\CarService.Models\obj\Debug\net9.0\CarService.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\PU\4 kurs\Serafimkata\C-CarApp-main\C-CarApp-main\CarService.Host\CarService.Models\obj\Debug\net9.0\CarService.Models.AssemblyInfoInputs.cache
+D:\PU\4 kurs\Serafimkata\C-CarApp-main\C-CarApp-main\CarService.Host\CarService.Models\obj\Debug\net9.0\CarService.Models.AssemblyInfo.cs
+D:\PU\4 kurs\Serafimkata\C-CarApp-main\C-CarApp-main\CarService.Host\CarService.Models\obj\Debug\net9.0\CarService.Models.csproj.CoreCompileInputs.cache
+D:\PU\4 kurs\Serafimkata\C-CarApp-main\C-CarApp-main\CarService.Host\CarService.Models\obj\Debug\net9.0\CarService.Models.sourcelink.json
+D:\PU\4 kurs\Serafimkata\C-CarApp-main\C-CarApp-main\CarService.Host\CarService.Models\obj\Debug\net9.0\CarService.Models.dll
+D:\PU\4 kurs\Serafimkata\C-CarApp-main\C-CarApp-main\CarService.Host\CarService.Models\obj\Debug\net9.0\refint\CarService.Models.dll
+D:\PU\4 kurs\Serafimkata\C-CarApp-main\C-CarApp-main\CarService.Host\CarService.Models\obj\Debug\net9.0\CarService.Models.pdb
+D:\PU\4 kurs\Serafimkata\C-CarApp-main\C-CarApp-main\CarService.Host\CarService.Models\obj\Debug\net9.0\ref\CarService.Models.dll

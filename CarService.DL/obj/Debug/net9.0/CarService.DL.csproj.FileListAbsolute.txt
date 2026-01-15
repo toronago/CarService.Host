@@ -1,0 +1,16 @@
+D:\PU\4 kurs\Serafimkata\C-CarApp-main\C-CarApp-main\CarService.Host\CarService.DL\bin\Debug\net9.0\CarService.DL.deps.json
+D:\PU\4 kurs\Serafimkata\C-CarApp-main\C-CarApp-main\CarService.Host\CarService.DL\bin\Debug\net9.0\CarService.DL.dll
+D:\PU\4 kurs\Serafimkata\C-CarApp-main\C-CarApp-main\CarService.Host\CarService.DL\bin\Debug\net9.0\CarService.DL.pdb
+D:\PU\4 kurs\Serafimkata\C-CarApp-main\C-CarApp-main\CarService.Host\CarService.DL\bin\Debug\net9.0\CarService.Models.dll
+D:\PU\4 kurs\Serafimkata\C-CarApp-main\C-CarApp-main\CarService.Host\CarService.DL\bin\Debug\net9.0\CarService.Models.pdb
+D:\PU\4 kurs\Serafimkata\C-CarApp-main\C-CarApp-main\CarService.Host\CarService.DL\obj\Debug\net9.0\CarService.DL.csproj.AssemblyReference.cache
+D:\PU\4 kurs\Serafimkata\C-CarApp-main\C-CarApp-main\CarService.Host\CarService.DL\obj\Debug\net9.0\CarService.DL.GeneratedMSBuildEditorConfig.editorconfig
+D:\PU\4 kurs\Serafimkata\C-CarApp-main\C-CarApp-main\CarService.Host\CarService.DL\obj\Debug\net9.0\CarService.DL.AssemblyInfoInputs.cache
+D:\PU\4 kurs\Serafimkata\C-CarApp-main\C-CarApp-main\CarService.Host\CarService.DL\obj\Debug\net9.0\CarService.DL.AssemblyInfo.cs
+D:\PU\4 kurs\Serafimkata\C-CarApp-main\C-CarApp-main\CarService.Host\CarService.DL\obj\Debug\net9.0\CarService.DL.csproj.CoreCompileInputs.cache
+D:\PU\4 kurs\Serafimkata\C-CarApp-main\C-CarApp-main\CarService.Host\CarService.DL\obj\Debug\net9.0\CarService.DL.sourcelink.json
+D:\PU\4 kurs\Serafimkata\C-CarApp-main\C-CarApp-main\CarService.Host\CarService.DL\obj\Debug\net9.0\CarServi.74EC55AF.Up2Date
+D:\PU\4 kurs\Serafimkata\C-CarApp-main\C-CarApp-main\CarService.Host\CarService.DL\obj\Debug\net9.0\CarService.DL.dll
+D:\PU\4 kurs\Serafimkata\C-CarApp-main\C-CarApp-main\CarService.Host\CarService.DL\obj\Debug\net9.0\refint\CarService.DL.dll
+D:\PU\4 kurs\Serafimkata\C-CarApp-main\C-CarApp-main\CarService.Host\CarService.DL\obj\Debug\net9.0\CarService.DL.pdb
+D:\PU\4 kurs\Serafimkata\C-CarApp-main\C-CarApp-main\CarService.Host\CarService.DL\obj\Debug\net9.0\ref\CarService.DL.dll
